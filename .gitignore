@@ -3,3 +3,5 @@ data/clean/
 .ipynb_checkpoints/
 __pycache__/
 .env
+
+*.zip
